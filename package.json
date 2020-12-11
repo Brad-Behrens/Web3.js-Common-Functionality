@@ -1,0 +1,24 @@
+{
+  "name": "Web3.js-Common-Functionality",
+  "version": "1.0.0",
+  "description": "An Overview of Web3.js and functions that return common queries on the Ethereum Blockchain.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brad-Behrens/Web3.js-Common-Functionality.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brad-Behrens/Web3.js-Common-Functionality/issues"
+  },
+  "homepage": "https://github.com/Brad-Behrens/Web3.js-Common-Functionality#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "web3": "^1.3.0"
+  }
+}
